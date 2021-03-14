@@ -1,0 +1,5 @@
+bool Bchecker()
+{
+ return true;
+}
+
