@@ -6,6 +6,6 @@ bool checker()
 }
 """
 
-fil = open(header, "w")
-fil.write(code)
-fil.close()
+f = open(header, "w")
+f.write(code)
+f.close()
